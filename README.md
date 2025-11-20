@@ -1,4 +1,4 @@
-# Organ Transplantation Management System
+# Medical Sync (Organ Transplantation Management System)
 
 ## Overview
 
