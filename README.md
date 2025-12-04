@@ -202,17 +202,10 @@ For additional information, please refer to:
 - Administrator Guide
 - Developer Documentation
 
-## License
-
-[Specify your license here]
-
-## Contributors
-
-[List contributors and their roles]
 
 ## Contact
 
-For support or inquiries, please contact: [Your contact information]
+For support or inquiries, please contact: [vijaybgaddi32@gmail.com]
 
 ---
 
